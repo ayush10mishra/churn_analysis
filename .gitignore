@@ -1,0 +1,30 @@
+# Virtual environment
+venv/
+env/
+.venv/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Environment variables
+.env
+
+# Model files
+*.sav
+*.pkl
+*.h5
+*.pt
+*.pth
+
+# Dataset files
+*.csv
+
+# Power BI files
+*.pbix
